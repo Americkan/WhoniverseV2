@@ -1,0 +1,1115 @@
+{
+  "name": "Earth",
+  "location": "Sol",
+  "episodes": [
+    {
+      "title": "Rose",
+      "doctor": "9th",
+      "companions": [
+        { "name": "Rose"},
+        {"name": "Mickey"}
+      ],
+      "aliens": [
+        {"name": "Autons"},
+        {"name": "The Nestene Consciousness"}
+      ]
+    },
+  {
+    "title": "The Unquiet Dead",
+    "doctor": "9th",
+    "companions": [{
+      "name": "Rose"
+    }],
+    "aliens": [{
+      "name": "Gelth"
+    }]
+  },
+  {
+    "title": "Aliens of London/World War Three",
+    "doctor": "9th",
+    "companions": [{
+      "name": "Rose"
+    }, {
+      "name": "Mickey"
+    }],
+    "aliens": [{
+      "name": "Slitheen"
+    }]
+  },
+  {
+    "title": "Dalek",
+    "doctor": "9th",
+    "companions": [{
+      "name": "Rose"
+    }, {
+      "name": "Adam"
+    }],
+    "aliens": [{
+      "name": "Daleks"
+    }]
+  }, {
+    "title": "Father's Day",
+    "doctor": "9th",
+    "companions": [{
+      "name": "Rose"
+    }],
+    "aliens": [{
+      "name": "Reapers"
+    }]
+  }, {
+    "title": "The Empty Child/The Doctor Dances",
+    "doctor": "9th",
+    "companions": [{
+      "name": "Rose"
+    }, {
+      "name": "Jack"
+    }],
+    "aliens": []
+  }, {
+    "title": "Boom Town",
+    "doctor": "9th",
+    "companions": [{
+      "name": "Rose"
+    }, {
+      "name": "Jack"
+    }, {
+      "name": "Mickey"
+    }],
+    "aliens": [{
+      "name": "Slitheen"
+    }]
+  }, {
+    "title": "The Christmas Invasion",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Rose"
+    }, {
+      "name": "Mickey"
+    }],
+    "aliens": [{
+      "name": "Sycorax"
+    }]
+  }, {
+    "title": "Tooth and Claw",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Rose"
+    }],
+    "aliens": [{
+      "name": "Werewolves"
+    }]
+  }, {
+    "title": "School Reunion",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Rose"
+    }, {
+      "name": "Mickey"
+    }],
+    "aliens": [{
+      "name": "Krillitanes"
+    }]
+  }, {
+    "title": "The Girl in the Fire",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Rose"
+    }, {
+      "name": "Mickey"
+    }],
+    "aliens": []
+  }, {
+    "title": "Rise of the Cyberman/The Age of Steel",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Rose"
+    }, {
+      "name": "Mickey"
+    }],
+    "aliens": [{
+      "name": "Cyberman"
+    }]
+  }, {
+    "title": "The Idiot's Lantern",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Rose"
+    }],
+    "aliens": [{
+      "name": "The Wire"
+    }]
+  }, {
+    "title": "Love and Monsters",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Rose"
+    }],
+    "aliens": [{
+      "name": "The Abzorbaloff"
+    }]
+  }, {
+    "title": "Fear Her",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Rose"
+    }],
+    "aliens": []
+  }, {
+    "title": "Army of Ghosts / Doomsady",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Rose"
+    }, {
+      "name": "Mickey"
+    }],
+    "aliens": [{
+      "name": "Cyberman"
+    }, {
+      "name": "Daleks"
+    }]
+  }, {
+    "title": "The Runaway Bride",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Donna"
+    }],
+    "aliens": [{
+      "name": "Racnoss"
+    }]
+  }, {
+    "title": "The Shakespeare Code",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Martha"
+    }],
+    "aliens": [{
+      "name": "The Carrionites"
+    }]
+  }, {
+    "title": "Gridlock",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Martha"
+    }],
+    "aliens": [{
+      "name": "Cats"
+    }, {
+      "name": "Macra"
+    }]
+  }, {
+    "title": "Daleks in Manhattan / Evolution of the Daleks",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Martha"
+    }],
+    "aliens": [{
+      "name": "Daleks"
+    }]
+  }, {
+    "title": "The Lazarus Experiment",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Martha"
+    }],
+    "aliens": []
+  }, {
+    "title": "Human Nature/The Family of Blood",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Martha"
+    }],
+    "aliens": [{
+      "name": "The Family of Blood"
+    }]
+  }, {
+    "title": "Blink",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Martha"
+    }],
+    "aliens": [{
+      "name": "Weeping Angels"
+    }]
+  }, {
+    "title": "Utopia/The Sound of Drums/Last of the Time Lords",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Martha"
+    }, {
+      "name": "Jack"
+    }],
+    "aliens": [{
+      "name": "The Master"
+    },{
+      "name": "Toclafone"
+    }]
+  }, {
+    "title": "Partners in Crime",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Donna"
+    }],
+    "aliens": [{
+      "name": "The Adipose"
+    }]
+  }, {
+    "title": "The Fires of Pompeii",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Donna"
+    }],
+    "aliens": [{
+      "name": "Pyroviles"
+    }]
+  }, {
+    "title": "The Sontaran Stratagem/The Poison Sky",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Donna"
+    }, {
+      "name": "Martha"
+    }],
+    "aliens": [{
+      "name": "Sontarans"
+    }]
+  }, {
+    "title": "The Unicorn and the Wasp",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Donna"
+    }],
+    "aliens": [{
+      "name": "Vespiform"
+    }]
+  }, {
+    "title": "Turn Left",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Donna"
+    }, {
+      "name": "Rose"
+    }],
+    "aliens": [{
+      "name": "Trickster"
+    }]
+  }, {
+    "title": "The Stolen Earth/Journey’s End",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Donna"
+    }, {
+      "name": "Rose"
+    }, {
+      "name": "Martha"
+    }, {
+      "name": "Jack"
+    }, {
+      "name": "Sarah-Jane"
+    }, {
+      "name": "K9 IV"
+    }],
+    "aliens": [{
+      "name": "Daleks"
+    }, {
+      "name": "Judoon"
+    }]
+  }, {
+    "title": "The Next Doctor",
+    "doctor": "10th",
+    "companions": [],
+    "aliens": [{
+      "name": "Cybermen"
+    }]
+  }, {
+    "title": "The End of Time",
+    "doctor": "10th",
+    "companions": [],
+    "aliens": [{
+      "name": "Ood"
+    }, {
+      "name": "Time Lords"
+    }, {
+      "name": "The Master"
+    }]
+  }, {
+    "title": "The Elventh Hour",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }, {
+      "name": "Rory"
+    }],
+    "aliens": [{
+      "name": "Prisoner Zero"
+    }, {
+      "name": "Atraxi"
+    }]
+  }, {
+    "title": "Victory of the Daleks",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }],
+    "aliens": [{
+      "name": "Daleks"
+    }]
+  }, {
+    "title": "The Vampires of Venice",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }, {
+      "name": "Rory"
+    }],
+    "aliens": [{
+      "name": "Saturnyns"
+    }]
+  }, {
+    "title": "Amy's Choice",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }, {
+      "name": "Rory"
+    }],
+    "aliens": []
+  }, {
+    "title": "The Hungry Eath/Cold Blood",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }, {
+      "name": "Rory"
+    }],
+    "aliens": [{
+      "name": "Silurians"
+    }]
+  }, {
+    "title": "Vincent and the Doctor",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }],
+    "aliens": [{
+      "name": "Krafayis"
+    }]
+  }, {
+    "title": "The Lodger",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }],
+    "aliens": []
+  }, {
+    "title": "The Pandorica Opens/The Big Bang",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }, {
+      "name": "Rory"
+    }, {
+      "name": "River Rong"
+    }],
+    "aliens": [{
+      "name": "Autons"
+    }, {
+      "name": "Cybermen"
+    }, {
+      "name": "Sontarans"
+    }, {
+      "name": "Daleks"
+    }]
+  }, {
+    "title": "A Christmas Carol",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }, {
+      "name": "Rory"
+    }],
+    "aliens": [{
+      "name": "Sky Fish"
+    }]
+  }, {
+    "title": "The Impossible Astronaught/Day of the Moon",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }, {
+      "name": "Rory"
+    }, {
+      "name": "River Song"
+    }],
+    "aliens": [{
+      "name": "The Silents"
+    }]
+  }, {
+    "title": "The Curse of the Black Spot",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }, {
+      "name": "Rory"
+    }],
+    "aliens": [{
+      "name": "Siren"
+    }]
+  }, {
+    "title": "The Rebel Flesh/The Almost People",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }, {
+      "name": "Rory"
+    }],
+    "aliens": []
+  }, {
+    "title": "Lets Kill Hitler",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }, {
+      "name": "Rory"
+    }, {
+      "name": "River Song"
+    }],
+    "aliens": [{
+      "name": "Teslecta"
+    }]
+  }, {
+    "title": "Night Terrors",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }, {
+      "name": "Rory"
+    }],
+    "aliens": [{
+      "name": "Peg Dolls"
+    }]
+  }, {
+    "title": "Closing Time",
+    "doctor": "11th",
+    "companions": [],
+    "aliens": [{
+      "name": "Cybermen"
+    }]
+  }, {
+    "title": "The Wedding of Riber Song",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }, {
+      "name": "Rory"
+    }, {
+      "name": "River Song"
+    }],
+    "aliens": [{
+      "name": "The Silents"
+    }, {
+      "name": "Teselecta"
+    }, {
+      "name": "Silurians"
+    }]
+  }, {
+    "title": "The Doctor The Widow and the Wardrobe",
+    "doctor": "11th",
+    "companions": [],
+    "aliens": []
+  }, {
+    "title": "A Town Called Mercy",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }, {
+      "name": "Rory"
+    }],
+    "aliens": [{
+      "name": "Kahler"
+    }]
+  }, {
+    "title": "The Power of Three",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }, {
+      "name": "Rory"
+    }],
+    "aliens": [{
+      "name": "Shakri"
+    }]
+  }, {
+    "title": "The Angels Take Manhattan",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }, {
+      "name": "Rory"
+    }],
+    "aliens": [{
+      "name": "Weeping Angels"
+    }]
+  }, {
+    "title": "The Snowmen",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": [{
+      "name": "The Great Intelligence"
+    }]
+  }, {
+    "title": "The Bells of Saint John",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": [{
+      "name": "The Great Intelligence"
+    }]
+  }, {
+    "title": "Cold war",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": [{
+      "name": "Ice Warriors"
+    }]
+  }, {
+    "title": "Hide",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": []
+  }, {
+    "title": "The Crimson Horror",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": [{
+      "name": "Mister Sweet"
+    }]
+  }, {
+    "title": "Deep Breath",
+    "doctor": "12th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": []
+  }, {
+    "title": "Into The Dalek",
+    "doctor": "12th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": []
+  }, {
+    "title": "Robot of Sherwood",
+    "doctor": "12th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": []
+  }, {
+    "title": "Listen",
+    "doctor": "12th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": []
+  }, {
+    "title": "The Caretaker",
+    "doctor": "12th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": []
+  }, {
+    "title": "Flatline",
+    "doctor": "12th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": []
+  }, {
+    "title": "In the Forest of the Night",
+    "doctor": "12th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": []
+  }, {
+    "title": "Darkwater",
+    "doctor": "12th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": []
+  }, {
+    "title": "Death in Heaven",
+    "doctor": "12th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": []
+  }, {
+    "title": "Last Christmas",
+    "doctor": "12th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": []
+  }, {
+    "title": "Under the Lake",
+    "doctor": "12th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": []
+  }, {
+    "title": "Before the Flood",
+    "doctor": "12th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": []
+  }, {
+    "title": "The Girl Who Died",
+    "doctor": "12th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": []
+  }, {
+    "title": "The Woman Who Lived",
+    "doctor": "12th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": []
+  }, {
+    "title": "The Zygon Invasion",
+    "doctor": "12th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": []
+  }, {
+    "title": "The Zygon Inversion",
+    "doctor": "12th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": []
+  }, {
+    "title": "Face The Raven",
+    "doctor": "12th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": [],
+    "natives": "Humans"
+}, {
+  "name": "Platform One",
+  "location": "Sol",
+  "episodes": [{
+    "name": "The End of the World",
+    "doctor": "9th",
+    "companions": [{
+      "name": "Rose"
+    }],
+    "aliens": [{
+      "name": "Adherents of the Repeated Meme"
+    }, {
+      "name": "Tree of Cheem"
+    }, {
+      "name": "Balhoonian"
+    }]
+  }]
+},
+
+{
+  "name": "Satellite Five",
+  "location": "Sol",
+  "episodes": [{
+    "name": "The Long Game",
+    "doctor": "9th",
+    "companions": [{
+      "name": "Rose"
+    }],
+    "aliens": [{
+      "name": "Jagrafess"
+    }]
+  }, {
+    "name": "Bad Wolf",
+    "doctor": "9th",
+    "companions": [{
+      "name": "Rose"
+    }, {
+      "name": "Jack"
+    }, {
+      "name": "Mickey"
+    }],
+    "aliens": [{
+      "name": "Daleks"
+    }]
+  }, {
+    "name": "The Parting of the Ways",
+    "doctor": "9th",
+    "companions": [{
+      "name": "Rose"
+    }, {
+      "name": "Jack"
+    }, {
+      "name": "Mickey"
+    }],
+    "aliens": [{
+      "name": "Daleks"
+    }]
+  }]
+}, {
+  "name": "New Earth",
+  "location": "Galaxy M87",
+  "episodes": [{
+    "name": "New Earth",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Rose"
+    }],
+    "aliens": [{
+      "name": "Cats"
+    }]
+  }, {
+    "name": "Gridlock",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Martha"
+    }],
+    "aliens": [{
+      "name": "Cats"
+    }, {
+      "name": "Macra"
+    }]
+  }]
+}, {
+  "name": "Krop Tor",
+  "location": "K37 Gem 5",
+  "episodes": [{
+    "name": "The Impossible Planet/The Satan Pit",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Rose"
+    }],
+    "aliens": [{
+      "name": "The Beast"
+    }]
+  }]
+}, {
+  "name": "The Moon",
+  "location": "Sol",
+  "episodes": [{
+    "name": "Smith and Jones",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Martha"
+    }],
+    "aliens": [{
+      "name": "Judoon"
+    }]
+  }]
+}, {
+  "name": "S.S. Pentallian",
+  "location": "Space",
+  "episodes": [{
+    "name": "42",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Marth"
+    }],
+    "aliens": []
+  }]
+}, {
+  "name": "Starship Titanic",
+  "location": "Space",
+  "episodes": [{
+    "name": "Voyage of the Damned",
+    "doctor": "10th",
+    "companions": [],
+    "aliens": [{
+      "name": "Hosts"
+    }]
+  }]
+}, {
+  "name": "Ood Sphere",
+  "location": "Horsehead Nebula",
+  "episodes": [{
+    "name": "Planet of the Ood",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Donna"
+    }],
+    "aliens": [{
+      "name": "Ood"
+    }]
+  }]
+}, {
+  "name": "Messaline",
+  "location": "Horsehead Nebula",
+  "episodes": [{
+    "name": "The Doctor's Daughter",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Donna"
+    }, {
+      "name": "Martha"
+    }],
+    "aliens": [{
+      "name": "Hath"
+    }]
+  }]
+}, {
+  "name": "The Library",
+  "location": "Space",
+  "episodes": [{
+    "name": "Silence in the Library",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Donna"
+    }],
+    "aliens": [{
+      "name": "Vashta Nerada"
+    }]
+  }, {
+    "name": "Forest of the Dead",
+    "doctor": "10th",
+    "companions": [{
+      "name": "Donna"
+    }],
+    "aliens": [{
+      "name": "Vashta Nerada"
+    }]
+  }]
+}, {
+  "name": "Midnight",
+  "location": "Xion",
+  "episodes": [{
+    "name": "Midnight",
+    "doctor": "10th",
+    "companions": [],
+    "aliens": []
+  }]
+}, {
+  "name": "San Helios",
+  "location": "",
+  "episodes": [{
+    "name": "Planet of the Dead",
+    "doctor": "10th",
+    "companions": [],
+    "aliens": [{
+      "name": "The Swarm"
+    }]
+  }]
+}, {
+  "name": "Mars",
+  "location": "Sol",
+  "episodes": [{
+    "name": "The Waters of Mars",
+    "doctor": "10th",
+    "companions": [],
+    "aliens": []
+  }]
+}, {
+  "name": "Starship Uk",
+  "location": "Sol",
+  "episodes": [{
+    "name": "The Beast Below",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }],
+    "aliens": [{
+      "name": "Smilers"
+    }, {
+      "name": "Star Whale"
+    }]
+  }]
+}, {
+  "name": "Alfava Metraxis",
+  "location": "Sol",
+  "episodes": [{
+    "name": "The Time of Angels/Flesh and Stone",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }, {
+      "name": "River Song"
+    }],
+    "aliens": [{
+      "name": "Weeping Angels"
+    }]
+  }]
+}, {
+  "name": "The TARDIS",
+  "location": "",
+  "episodes": [{
+    "name": "The Doctor's Wife",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }, {
+      "name": "Rory"
+    }],
+    "aliens": [{
+      "name": "Ood"
+    }, {
+      "name": "House"
+    }]
+  }, {
+    "name": "Journey to the Centre of the TARDIS",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": []
+  }]
+}, {
+  "name": "Demon's Run",
+  "location": "",
+  "episodes": [{
+    "name": "A Good Man Goes to War",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }, {
+      "name": "Rory"
+    }, {
+      "name": "River Song"
+    }],
+    "aliens": [{
+      "name": "Headless Monks"
+    }, {
+      "name": "Cybermen"
+    }, {
+      "name": "Íilurians"
+    }]
+  }]
+}, {
+  "name": "Apalapucian",
+  "location": "",
+  "episodes": [{
+    "name": "The Girl Who Waited",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }, {
+      "name": "Rory"
+    }],
+    "aliens": [{
+      "name": "Handbots"
+    }]
+  }]
+}, {
+  "name": "Prison Ship",
+  "location": "",
+  "episodes": [{
+    "name": "The God Complex",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }, {
+      "name": "Rory"
+    }],
+    "aliens": [{
+      "name": "Minotaur"
+    }]
+  }]
+}, {
+  "name": "Skaro",
+  "location": "",
+  "episodes": [{
+    "name": "Asylum of the Daleks",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }, {
+      "name": "Rory"
+    }],
+    "aliens": [{
+      "name": "Dalek"
+    }]
+  }]
+}, {
+  "name": "Silurian Spaceship",
+  "location": "",
+  "episodes": [{
+    "name": "Dinosaurs on a Spaceship",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Amy"
+    }, {
+      "name": "Rory"
+    }],
+    "aliens": [{
+      "name": "Dinosaurs"
+    }]
+  }]
+}, {
+  "name": "Akhaten",
+  "location": "",
+  "episodes": [{
+    "name": "The Rings of Akhaten",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": [{
+      "name": "Akhaten"
+    }]
+  }]
+}, {
+  "name": "Hedgewick’s World of Wonders",
+  "location": "",
+  "episodes": [{
+    "name": "Nightmare in Silver",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": [{
+      "name": "Cybermen"
+    }]
+  }]
+}, {
+  "name": "Trenzalore",
+  "location": "",
+  "episodes": [{
+    "name": "The Name of the Doctor",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": [{
+      "name": "The Great Intelligence"
+    }]
+  }, {
+    "name": "The Time of the Doctor",
+    "doctor": "11th",
+    "companions": [{
+      "name": "Clara"
+    }],
+    "aliens": [{
+      "name": "Daleks"
+    }, {
+      "name": "Silents"
+    }, {
+      "name": "Cybermen"
+    }, {
+      "name": "Weeping Angels"
+    }, {
+      "name": "Sontarans"
+    }]
+  }]
+}

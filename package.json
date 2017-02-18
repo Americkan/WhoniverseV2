@@ -1,0 +1,60 @@
+{
+  "name": "whoniverse",
+  "version": "0.0.1",
+  "description": "An interactive travel through all time and space",
+  "author": "Cory Kitchens <corykitchens@gmail.com",
+  "engines": {
+    "node": "6.5.0",
+    "npm": "3.10.3"
+  },
+  "contributors": [
+    {
+      "name": "Erick Herrera"
+    }
+  ],
+  "scripts": {
+    "start": "npm run build && node dist/server.js",
+    "clean": "rm -rf dist/*",
+    "lint": "eslint **",
+    "test": "mocha",
+    "seed": "node config/seed.js",
+    "build": "babel src -d dist/",
+    "watch": "babel public/game --watch -d dist/",
+    "webpack": "webpack",
+    "heroku-postbuild": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/corykitchens/whoniverse.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "colors": "^1.1.2",
+    "expose-loader": "^0.7.1",
+    "express": "^4.14.0",
+    "express-jwt": "^5.1.0",
+    "jsonwebtoken": "^7.1.9",
+    "mongoose": "^4.6.0",
+    "morgan": "^1.7.0",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "phaser-ce": "^2.7.3",
+    "request": "^2.74.0",
+    "webpack": "^2.2.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.14.0",
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.14.0",
+    "chai": "^3.5.0",
+    "eslint": "^3.4.0",
+    "eslint-config-airbnb": "^10.0.1",
+    "eslint-plugin-import": "^1.14.0",
+    "eslint-plugin-jsx-a11y": "^2.2.1",
+    "eslint-plugin-react": "^6.2.0",
+    "mocha": "^3.0.2",
+    "webpack": "^2.2.1"
+  }
+}
